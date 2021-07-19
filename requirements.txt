@@ -235,7 +235,6 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.15.0
 sklearn==0.0
-sklearn-compiledtrees==1.2
 smart-open==5.1.0
 sniffio==1.2.0
 snowballstemmer==2.0.0
